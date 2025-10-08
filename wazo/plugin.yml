@@ -1,16 +1,16 @@
-name: wazo-ivr-system-plugin
+name: wazo-survey-plugin
 namespace: quintana
 version: 0.0.1
 author: Volod
-display_name: Plugin IVR System
+display_name: Plugin Survey
 plugin_format_version: 1
 min_wazo_version: 25.02
 tags:
-  - ivr-system-plugin
+  - wazo-survey-plugin
   - demo
 #depends:
 #  - name: foo
 #    namespace: foocorp
 debian_depends:
   - vim
-homepage: https://github.com/darkhosre34/wazo-ivr-system-plugin
+homepage: https://github.com/darkhosre34/wazo-survey-plugin
