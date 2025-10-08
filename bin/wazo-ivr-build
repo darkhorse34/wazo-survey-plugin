@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-set -euo pipefail
-python3 /usr/lib/wazo-ivr-plugin/wazo_ivr_plugin/api.py "$@"

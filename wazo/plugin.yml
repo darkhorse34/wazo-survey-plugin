@@ -1,16 +1,16 @@
 name: wazo-survey-plugin
 namespace: quintana
 version: 0.0.1
-author: Volod
-display_name: Plugin Survey
+author: Sylvain Boily
+display_name: Plugin Demo
 plugin_format_version: 1
-min_wazo_version: 25.02
+min_wazo_version: 21.07
 tags:
-  - wazo-survey-plugin
+  - community
   - demo
 #depends:
 #  - name: foo
 #    namespace: foocorp
 debian_depends:
   - vim
-homepage: https://github.com/darkhosre34/wazo-survey-plugin
+homepage: https://github.com/sboily/wazo-plugin-demo
